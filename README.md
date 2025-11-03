@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e27e35df-6952-45c5-9739-f828fd1d0cd8" alt="VIPS Logo" width="180"/>
+  <img src="https://github.com/user-attachments/assets/e27e35df-6952-45c5-9739-f828fd1d0cd8" alt="Logo" width="180"/>
 </p>
 
 
