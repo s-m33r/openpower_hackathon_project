@@ -153,8 +153,8 @@ For full OpenFPGA netlist-generation steps, see [fpga/OPENFPGA_NETLIST.md](fpga/
 
 - CPU functional check:
   - We modified the classic `hello_world.c` to print the “Chip Foundry” logo text.
-  - Simulated on the Microwatt CPU using a standard Verilog simulator (e.g., Verilator/Icarus).
-  - Verified correct instruction execution and UART-like output behavior.
+  - Simulated on the Microwatt CPU.
+  - Verified correct instruction execution.
 - You can use [demo.c](demo.c) as a starting point for integration tests or bring-up examples.
 
 ## Chip Foundry Logo
