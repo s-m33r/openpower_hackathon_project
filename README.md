@@ -52,6 +52,10 @@ Quick links:
   - Fed the generated netlists to OpenLane using [fpga/config.json](fpga/config.json).
   - Produced [fpga_top.gds](gds/fpga_top.gds).
 
+## FPGA GDS Snap 
+<img width="1175" height="918" alt="image" src="https://github.com/user-attachments/assets/d680136d-5938-47ab-b014-02fd6a2f5e7c" />
+
+
 
 ## How we generated the CPU GDS (Nix + OpenLane)
 
