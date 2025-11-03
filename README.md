@@ -52,6 +52,9 @@ Quick links:
   - Fed the generated netlists to OpenLane using [fpga/config.json](fpga/config.json).
   - Produced [fpga_top.gds](gds/fpga_top.gds).
 
+## Microwatt CPU GDS Snap
+<img width="1049" height="947" alt="image" src="https://github.com/user-attachments/assets/335ebc05-efe4-4622-8404-36ae0b7be884" />
+
 ## FPGA GDS Snap 
 <img width="1175" height="918" alt="image" src="https://github.com/user-attachments/assets/d680136d-5938-47ab-b014-02fd6a2f5e7c" />
 
