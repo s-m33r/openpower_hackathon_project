@@ -1,0 +1,37 @@
+CPU Pipeline (KEEP ALL):
+
+bit_counter - Population count helper
+cache_ram_5_64_* - Instruction/Data cache RAM
+control_0 - Control signals decode
+core_debug_0 - Debug module
+cr_file_0 - Condition register file
+decode1_0, decode2_0 - Decode stages
+dcache_64_4_... - Data cache
+execute1_0 - Execute stage
+fetch1_... - Fetch stage
+fpu - FPU
+icache_64_8_... - Instruction cache
+loadstore1_0 - Load/store unit
+logical, rotator - ALU operations
+main_bram_64_9_4096_* - Main memory (BRAM)
+mmu - MMU/TLB
+multiply_4 - 4-cycle multiplier
+plru_1 - LRU replacement policy
+pmu - Performance monitoring
+random - Random number for TLB
+register_file_0 - Register file
+
+SoC Peripherals (REMOVE THESE):
+gpio_32 - GPIO controller
+spi_flash_ctrl_4_4 - SPI Flash
+spi_rxtx_4_1 - SPI transceiver
+syscon_* - System control
+xics_icp, xics_ics_* - Interrupt controllers
+wishbone_arbiter_4 - Bus arbiter (CRITICAL TO REMOVE)
+wishbone_bram_wrapper_4096 - BRAM wrapper
+wishbone_debug_master - Debug master
+
+Top-Level Wrapper (REMOVE):
+microwatt - SoC wrapper (routes to core + peripherals)
+user_project_wrapper - Caravel harness integration
+simplebus_host - SimpleAPI wrapper
