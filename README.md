@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e27e35df-6952-45c5-9739-f828fd1d0cd8" alt="VIPS Logo" width="180"/>
+</p>
+
+
 # Microwatt + FPGA SoC (OpenPOWER + OpenFPGA on SKY130A)
 
 This repository documents our entry for the 2025 [Microwatt Momentum OpenPOWER HW Design Hackathon](https://chipfoundry.io/challenges/microwatt).  
