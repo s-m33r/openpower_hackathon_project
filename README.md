@@ -145,6 +145,9 @@ For full OpenFPGA netlist-generation steps, see [fpga/OPENFPGA_NETLIST.md](fpga/
   - Verified correct instruction execution and UART-like output behavior.
 - You can use [demo.c](demo.c) as a starting point for integration tests or bring-up examples.
 
+## Chip Foundry Logo
+
+<img width="714" height="832" alt="image" src="https://github.com/user-attachments/assets/c9bae075-b4d9-4780-a35a-2210466e0bcf" />
 
 ## Configuration highlights
 
